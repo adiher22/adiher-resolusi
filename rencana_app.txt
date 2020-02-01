@@ -1,5 +1,6 @@
 -Rencana membuat aplikasi dengan reactjs
 -Membuat Backend Python dan Node js
+-Membuat Vanilla javascript
 -Integrasi Public API, dengan postman
   -Integrasi Api Rajaongkir,
   -Integrasi Api hotel
