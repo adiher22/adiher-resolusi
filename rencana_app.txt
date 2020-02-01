@@ -1,0 +1,5 @@
+-Rencana membuat aplikasi dengan reactjs
+-Membuat Backend Python dan Node js
+-Integrasi Public API, dengan postman
+-Membuat konfigurasi framework dengan express js
+-Membuat Materi tentang Codeigniter 
