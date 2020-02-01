@@ -6,3 +6,6 @@
   -Integrasi Api hotel
 -Membuat konfigurasi framework dengan express js
 -Membuat Materi tentang Codeigniter 
+  -CRUD Ajax tanpa loading
+  -Integrasi Bootstrap
+  
