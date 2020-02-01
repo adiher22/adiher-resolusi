@@ -2,4 +2,5 @@ Adiher Resolusi
 -Membuat aplikasi e-commerce
 -Membuat spk dengan metode saw
 -Membuat aplikasi POS 
-
+-Membuat sistem e-learning
+-Membuat notifikasi realtime
